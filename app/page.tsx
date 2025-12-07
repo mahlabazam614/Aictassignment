@@ -1,14 +1,14 @@
-import Signin from '@/components/signin';
+import Signin from '@/components/signin/page';
 import Spline from './spline/page';
-import Navbar from '@/components/navbar';
+import Navbar from '@/components/navbar/page';
 
 export default function Home() {
 
   return (
     <main>
-      <Navbar />
+      {/* <Navbar /> */}
       <Spline />
-      <Signin />
+      {/* <Signin /> */}
     </main>
   );
 }
