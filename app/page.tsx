@@ -1,6 +1,6 @@
-import Signin from '@/components/signin/page';
+
 import Spline from './spline/page';
-import Navbar from '@/components/navbar/page';
+import Navbar from '@/components/navbar/Navbar';
 
 export default function Home() {
 
