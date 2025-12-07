@@ -25,7 +25,7 @@ export default async function DataPage() {
 
     return (
         <div className="min-h-screen bg-gradient-to-b from-neutral-950 to-white text-gray-800">
-            <Navbar />
+            {/* <Navbar /> */}
             <div className="container mx-auto p-8 flex justify-center">
                 <div className="w-full max-w-5xl bg-white rounded-md shadow-lg p-10">
                     <h1 className="text-3xl font-bold mb-8 text-center text-gray-800 tracking-tight">
