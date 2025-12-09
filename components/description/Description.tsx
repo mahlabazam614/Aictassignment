@@ -103,7 +103,9 @@ export default function Description() {
                         <ul className="space-y-2 text-sm">
                             <li className="pl-4">✓ Server-side rendering with Next.js App Router</li>
                             <li className="pl-4">✓ Type-safe development with TypeScript</li>
-
+                            <li className="pl-4">✓ Responsive design with Tailwind CSS</li>
+                            <li className="pl-4">✓ Modern UI/UX with Tailwind CSS</li>
+                            <li className="pl-4">✓ herosection with Spline to create a 3D animation</li>
                             <li className="pl-4">✓ Form handling with Server Actions</li>
                             <li className="pl-4">✓ Database queries with Vercel Postgres</li>
                             <li className="pl-4">✓ Component-based architecture</li>
@@ -122,7 +124,7 @@ export default function Description() {
                     {/* Made By */}
                     <section className="pt-6">
                         <p className="text-center text-gray-800 font-semibold">
-                            Made by Mahlab Azam
+                            Made by Mahlab Azam 
                         </p>
                     </section>
                 </div>
