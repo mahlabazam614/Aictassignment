@@ -50,7 +50,7 @@ export default function Navbar() {
                                     Access all pages and links here.
                                 </SheetDescription>
                             </SheetHeader>
-                            <div className="flex flex-col space-y-4 mt-6">
+                            <div className="flex flex-col space-y-4 mt-6 px-4">
                                 <Link href="/" className="text-gray-700 hover:text-gray-900 py-2" onClick={() => setIsOpen(false)}>Home</Link>
                                 <Link href="/signin" className="text-gray-700 hover:text-gray-900 py-2" onClick={() => setIsOpen(false)}>Sign in</Link>
                                 <Link href="/data" className="text-gray-700 hover:text-gray-900 py-2" onClick={() => setIsOpen(false)}>Data</Link>

@@ -1,6 +1,6 @@
 export default function Description() {
     return (
-        <div className="flex justify-center items-center min-h-screen bg-gradient-to-b from-neutral-950 to-white p-4 py-20">
+        <div className="flex justify-center items-center min-h-screen bg-gradient-to-b from-white to-neutral-950     p-4 py-20">
             <div className="w-full max-w-3xl bg-white rounded-md shadow-lg p-10">
                 <h1 className="text-3xl font-bold text-center mb-8 text-gray-800 tracking-tight">
                     Project Overview
