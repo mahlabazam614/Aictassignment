@@ -74,10 +74,11 @@ export default function Description() {
                             <div className="bg-gray-50 p-4 rounded-md border border-gray-200">
                                 <h3 className="font-semibold text-gray-800 mb-2">Frontend</h3>
                                 <ul className="text-sm space-y-1">
-                                    <li>• Next.js 15</li>
+                                    <li>• Next.js 16.6.6</li>
                                     <li>• React 19</li>
                                     <li>• TypeScript</li>
                                     <li>• Tailwind CSS</li>
+                                    <li>• Spline</li>
                                 </ul>
                             </div>
                             <div className="bg-gray-50 p-4 rounded-md border border-gray-200">
