@@ -1,7 +1,4 @@
--- PostgreSQL Database Setup for Neon
--- Run this in your Neon SQL Editor
 
--- Users Table
 CREATE TABLE IF NOT EXISTS users (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
@@ -13,6 +10,4 @@ CREATE TABLE IF NOT EXISTS users (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
--- Optional: Insert a test user
--- INSERT INTO users (name, date_of_birth, phone, gender, email, password) VALUES 
--- ('Test User', '2000-01-01', '1234567890', 'other', 'test@example.com', 'password123');
+
